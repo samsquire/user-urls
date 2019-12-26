@@ -4,7 +4,7 @@ Users have a URL that changes as they move the mouse around an application. This
 
 # Examples
 
-In a code IDE where you have the mouse cursor in a definitive position, such as the following where my cursor in inside the `index` method of a Spring boot controller:
+In a code IDE where you have the mouse cursor in a definitive position, such as in a spring boot controller method:
 
 ```
 package hello;
