@@ -5,3 +5,11 @@ Users have a URL that changes as they move the mouse around an application. This
 # Usages
 
 Real time search for future options.
+
+# Examples
+
+In a code IDE where you have the mouse cursor in a definitive position, such as
+
+```
+user://main.editor?file=HelloController.java&class=HelloController&classAnnotation=@RestController&method=index&methodAnnotation=@RequestMapping("/")
+```
