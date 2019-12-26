@@ -1,6 +1,6 @@
 # user-urls
 
-Users have a URL that changes as they move the mouse around an application. This URL captures what else is on the screen. It represents a query for what the user is able to do right now.
+Users have a URL that changes as they move the mouse around an application. This URL captures what else is on the screen. It represents a query for what the user is doing right now and what they could be doing.
 
 # Examples
 
@@ -31,3 +31,9 @@ user://main.editor?file=HelloController.java&class=HelloController&classAnnotati
 # Usages
 
 The user URL is a real time query for options that the user can do right now. For example, in the above example, I could have a listener for parts of the URL url: classAnnotation=@RestController and methodAnnotation=@RequestMapping. This would show a list of services that the user can use.
+
+## Adtech
+
+## Realtime operational search
+
+This is what I'm really interested in.
