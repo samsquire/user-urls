@@ -4,4 +4,4 @@ Users have a URL that changes as they move the mouse around an application. This
 
 # Usages
 
-Real time search for options.
+Real time search for future options.
