@@ -30,4 +30,4 @@ user://main.editor?file=HelloController.java&class=HelloController&classAnnotati
 
 # Usages
 
-The user URL is a real time query for options that the user can do right now. For example, in the above example, I could have a listener for the classAnnotation=@RestController and methodAnnotation=@RequestMapping. This would show a list of services that the user can use.
+The user URL is a real time query for options that the user can do right now. For example, in the above example, I could have a listener for parts of the URL url: classAnnotation=@RestController and methodAnnotation=@RequestMapping. This would show a list of services that the user can use.
