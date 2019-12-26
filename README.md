@@ -8,7 +8,7 @@ Real time search for future options.
 
 # Examples
 
-In a code IDE where you have the mouse cursor in a definitive position, such as inside the `index` method of a Spring boot controller:
+In a code IDE where you have the mouse cursor in a definitive position, such as the following where my cursor in inside the `index` method of a Spring boot controller:
 
 ```
 package hello;
